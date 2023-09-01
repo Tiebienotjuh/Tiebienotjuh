@@ -1,4 +1,17 @@
-- 👋 Hoi, Ik ben @Tiebienotjuh aka Tiebe
-- 👀 Ik vraag me ook af wat ik doe, dat moet ik nog even uitzoeken..
+# Tiebienotjuh
 
-Je kan me altijd contacteren via discord Tiebienotjuh#3173 of via de old school email, me@tiebienotjuh.be
+👋 │ I am Tiebienotjuh, a system administrator with a passion for managing and optimizing IT infrastructure.
+
+## About Me
+
+- **Name:** Tiebienotjuh
+- **Location:** Belgium, West-Flanders
+- **Email:** me@tiebienotjuh.be
+- **Website:** [tiebienotjuh.be](https://tiebienotjuh.be)
+
+## Contact
+
+If you have any questions, feedback, or would like to collaborate on a project, please feel free to reach out to me through the following channels:
+
+- Email: me@tiebienotjuh.be
+- Discord: Tiebienotjuh
